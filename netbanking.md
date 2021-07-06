@@ -1,3 +1,1 @@
-# Already have an account [Sign in](login.html)
-
-# New to myBank [Register](register.html)
+# Log In to your account [Sign in](login.html)
